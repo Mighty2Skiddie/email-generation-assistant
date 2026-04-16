@@ -1,0 +1,118 @@
+[
+  {
+    "id": "S01",
+    "intent": "Follow up after a product demo meeting",
+    "facts": [
+      "Met on Tuesday April 8th",
+      "Demonstrated the DataSync Pro platform",
+      "Client expressed interest in the Enterprise tier",
+      "Pricing proposal to be shared by end of week",
+      "Follow-up call scheduled for Friday April 12th at 2 PM"
+    ],
+    "tone": "formal"
+  },
+  {
+    "id": "S02",
+    "intent": "Request time off for personal reasons",
+    "facts": [
+      "Requesting leave from April 21st to April 25th",
+      "All current tasks will be delegated to Jamie Chen",
+      "Available by phone for urgent matters",
+      "Have covered the upcoming client presentation prep"
+    ],
+    "tone": "casual"
+  },
+  {
+    "id": "S03",
+    "intent": "Escalate a critical production outage to the engineering team",
+    "facts": [
+      "Production API has been down since 3:47 AM EST",
+      "Approximately 12,000 active users are affected",
+      "Root cause suspected to be the deployment from v2.4.1 last night",
+      "Revenue impact estimated at $4,500 per hour",
+      "Need immediate rollback authorization from CTO"
+    ],
+    "tone": "urgent"
+  },
+  {
+    "id": "S04",
+    "intent": "Express condolences to a colleague who lost a family member",
+    "facts": [
+      "Colleague is Sarah Mitchell",
+      "She recently lost her father",
+      "The team has organized flowers to be sent",
+      "She has been granted bereavement leave for the week"
+    ],
+    "tone": "empathetic"
+  },
+  {
+    "id": "S05",
+    "intent": "Propose a strategic partnership opportunity to another company",
+    "facts": [
+      "Target company is Nexus Analytics Ltd",
+      "Proposing co-development of an AI-powered logistics dashboard",
+      "Our company brings the ML infrastructure and data pipelines",
+      "Nexus brings domain expertise in supply chain management",
+      "Estimated project timeline is 6 months with shared IP ownership"
+    ],
+    "tone": "formal"
+  },
+  {
+    "id": "S06",
+    "intent": "Invite the team to a casual end-of-quarter celebration",
+    "facts": [
+      "Event is this Friday at 5 PM",
+      "Location is The Rooftop Lounge on 4th Street",
+      "Food and drinks will be provided by the company",
+      "Partners and plus-ones are welcome"
+    ],
+    "tone": "casual"
+  },
+  {
+    "id": "S07",
+    "intent": "Request immediate budget approval for an emergency server upgrade",
+    "facts": [
+      "Current servers are at 94% capacity and risk crashing",
+      "Requesting approval for $18,000 for AWS reserved instances",
+      "Without upgrade, service degradation expected within 48 hours",
+      "Vendor quote attached; procurement can finalize within 24 hours"
+    ],
+    "tone": "urgent"
+  },
+  {
+    "id": "S08",
+    "intent": "Apologize to a client for missing a project deadline",
+    "facts": [
+      "Client is Meridian Insurance Group",
+      "The Q1 analytics report was due March 31st but was delayed by 4 days",
+      "Delay caused by unexpected data pipeline failure",
+      "Report is now complete and attached",
+      "Offering a 10% discount on next invoice as a goodwill gesture"
+    ],
+    "tone": "empathetic"
+  },
+  {
+    "id": "S09",
+    "intent": "Send a quarterly performance review summary to a direct report",
+    "facts": [
+      "Employee is Marcus Thompson, Senior Software Engineer",
+      "Achieved 97% sprint velocity target for Q1",
+      "Led the successful migration of the authentication service",
+      "Identified opportunity: improve cross-team communication skills",
+      "Performance rating: Exceeds Expectations — eligible for 8% merit increase"
+    ],
+    "tone": "formal"
+  },
+  {
+    "id": "S10",
+    "intent": "Welcome a new team member joining the data engineering team",
+    "facts": [
+      "New hire is Priya Sharma, joining as a Data Engineer",
+      "She starts on Monday April 14th",
+      "Team lunch is planned for Tuesday at noon at Bento Garden",
+      "Her onboarding buddy is Alex Rodriguez",
+      "First week will focus on codebase walkthrough and tool setup"
+    ],
+    "tone": "casual"
+  }
+]

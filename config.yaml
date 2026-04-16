@@ -1,0 +1,32 @@
+# ============================================================
+# AI Email Generation Assistant — Configuration
+# ============================================================
+
+models:
+  model_a:
+    provider: openai
+    name: gpt-4o
+    temperature: 0.3
+    max_tokens: 600
+  model_b:
+    provider: openai
+    name: gpt-4o-mini
+    temperature: 0.3
+    max_tokens: 600
+
+judge:
+  provider: groq
+  name: llama-3.3-70b-versatile
+  temperature: 0.0
+  max_tokens: 300
+
+evaluation:
+  rouge_weight: 0.25
+  bleu_weight: 0.10
+  bertscore_weight: 0.15
+  fact_recall_weight: 0.20
+  tone_accuracy_weight: 0.15
+  fluency_weight: 0.15
+
+database:
+  path: outputs/evaluation.db

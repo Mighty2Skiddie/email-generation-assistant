@@ -1,0 +1,42 @@
+{
+  "S01": {
+    "scenario_id": "S01",
+    "email_text": "Subject: Follow-Up — DataSync Pro Enterprise Demo | Next Steps\n\nDear [Client Name],\n\nThank you for taking the time to meet with us on Tuesday, April 8th. It was a pleasure walking you through the DataSync Pro platform and discussing how the Enterprise tier could address your organization's data synchronization challenges.\n\nAs discussed, I will have a detailed pricing proposal for the Enterprise tier in your inbox by end of this week. I look forward to our scheduled follow-up call on Friday, April 12th at 2:00 PM to walk through the proposal together and address any questions you may have.\n\nIn the meantime, please do not hesitate to reach out if you require any additional information.\n\nBest regards,\n[Your Name]\n[Title] | [Company Name]"
+  },
+  "S02": {
+    "scenario_id": "S02",
+    "email_text": "Subject: Time Off Request — April 21–25\n\nHi [Manager's Name],\n\nHope you're doing well! I wanted to give you a heads-up that I'd like to take some personal time off from April 21st through April 25th.\n\nI've already touched base with Jamie Chen, who's happy to cover my tasks while I'm out. I've also made sure the upcoming client presentation prep is taken care of, so we should be in good shape on that front. I'll also be reachable by phone if anything urgent comes up.\n\nLet me know if this works or if you'd like to chat about it!\n\nThanks,\n[Your Name]"
+  },
+  "S03": {
+    "scenario_id": "S03",
+    "email_text": "Subject: CRITICAL — Production API Down | Immediate Action Required\n\nAll Hands — Engineering Leadership,\n\nURGENT: Our production API has been down since 3:47 AM EST. Approximately 12,000 active users are currently affected and unable to access the platform. Revenue impact is estimated at $4,500 per hour and climbing.\n\nRoot cause analysis points to the v2.4.1 deployment that went out last night. We need immediate rollback authorization from the CTO to revert to the previous stable build.\n\nThis situation requires your immediate attention. Please authorize the rollback NOW so the engineering team can begin remediation without further delay.\n\nStanding by for your response.\n\n[Your Name]\nOn-Call Engineering Lead"
+  },
+  "S04": {
+    "scenario_id": "S04",
+    "email_text": "Subject: Our Deepest Condolences, Sarah\n\nDear Sarah,\n\nI wanted to reach out on behalf of the entire team to express our heartfelt condolences on the loss of your father. This is an incredibly difficult time, and our thoughts are with you and your family.\n\nPlease know that we are all here for you. The team has arranged for flowers to be sent to you, and we want you to take the time you need — you have been granted bereavement leave for the week, so please do not give work a second thought right now.\n\nWe will be here to welcome you back when you are ready. Take good care of yourself.\n\nWith warmth and support,\n[Your Name]"
+  },
+  "S05": {
+    "scenario_id": "S05",
+    "email_text": "Subject: Strategic Partnership Proposal — AI-Powered Logistics Dashboard\n\nDear [Nexus Analytics Leadership Team],\n\nI am writing to propose a strategic partnership between our organizations that I believe could deliver significant value for both parties.\n\nWe would like to explore the co-development of an AI-powered logistics dashboard with Nexus Analytics Ltd. Our organization brings proven ML infrastructure and robust data pipeline capabilities, while Nexus brings deep domain expertise in supply chain management — a combination that positions both teams to build a market-leading solution.\n\nWe envision a six-month joint development program with shared intellectual property ownership, ensuring both organizations benefit equally from the resulting product.\n\nI would welcome the opportunity to discuss this proposal in more detail at your earliest convenience. Please let me know a time that suits you.\n\nYours sincerely,\n[Your Name]\n[Title] | [Company Name]"
+  },
+  "S06": {
+    "scenario_id": "S06",
+    "email_text": "Subject: End-of-Quarter Celebration — You're Invited! 🎉\n\nHey team!\n\nWe've had an incredible quarter, and it's time to celebrate! Join us this Friday at 5 PM at The Rooftop Lounge on 4th Street for some well-deserved drinks and good vibes.\n\nThe company is covering food and drinks, so all you need to bring is yourself — and your plus-one if you'd like! Partners and significant others are more than welcome.\n\nLooking forward to unwinding with everyone. See you there!\n\nCheers,\n[Your Name]"
+  },
+  "S07": {
+    "scenario_id": "S07",
+    "email_text": "Subject: URGENT — Budget Approval Required: Emergency Server Upgrade ($18,000)\n\nDear [Approver Name],\n\nI need your immediate attention on a time-critical infrastructure issue.\n\nOur servers are currently operating at 94% capacity and are at serious risk of failure. Without intervention, we expect service degradation within the next 48 hours, which would impact all active users and revenue-generating operations.\n\nI am requesting urgent approval for $18,000 to provision AWS reserved instances. The vendor quote is attached to this email. Our procurement team is ready to finalize the purchase within 24 hours of approval.\n\nEvery hour of delay increases our risk exposure significantly. Please review and authorize this expenditure today.\n\nThank you for your prompt attention to this matter.\n\n[Your Name]\n[Title]"
+  },
+  "S08": {
+    "scenario_id": "S08",
+    "email_text": "Subject: Sincere Apologies — Delay in Q1 Analytics Report Delivery\n\nDear Meridian Insurance Group Team,\n\nI want to personally apologize for the four-day delay in delivering your Q1 analytics report, which was originally due on March 31st. I understand how important timely reporting is to your operations, and I am truly sorry for any inconvenience this has caused.\n\nThe delay was the result of an unexpected data pipeline failure on our end — an issue that we have since fully resolved and have taken steps to prevent from recurring.\n\nI am pleased to let you know that the completed report is attached to this email for your review. As a gesture of goodwill for the disruption caused, we will be applying a 10% discount to your next invoice.\n\nThank you for your patience and understanding. Please do not hesitate to reach out if you have any questions about the report.\n\nWarm regards,\n[Your Name]\n[Title] | [Company Name]"
+  },
+  "S09": {
+    "scenario_id": "S09",
+    "email_text": "Subject: Q1 Performance Review Summary — Marcus Thompson\n\nDear Marcus,\n\nI am pleased to share your Q1 performance review summary following our recent discussion.\n\nYour performance this quarter has been exceptional. You achieved a 97% sprint velocity target — a strong indicator of your consistent output and reliability. Your leadership of the authentication service migration was particularly noteworthy; the project was delivered seamlessly and has already improved system stability significantly.\n\nAs an area of opportunity, I would encourage you to continue developing your cross-team communication skills. Building stronger relationships across departments will position you well for future leadership responsibilities.\n\nBased on your Q1 results, your performance rating is Exceeds Expectations, and I am pleased to confirm that you are eligible for an 8% merit increase, which will be reflected in your next compensation cycle.\n\nThank you for your excellent contributions. I look forward to seeing your continued growth in Q2.\n\nBest regards,\n[Your Name]\n[Title]"
+  },
+  "S10": {
+    "scenario_id": "S10",
+    "email_text": "Subject: Welcome to the Team, Priya! 👋\n\nHey everyone!\n\nExciting news — we have a new teammate joining us! Please give a warm welcome to Priya Sharma, who is joining our data engineering team as a Data Engineer starting this Monday, April 14th.\n\nTo help Priya get settled in, Alex Rodriguez will be her onboarding buddy, and her first week will be focused on getting familiar with the codebase and setting up her tools.\n\nWe've also got a team lunch planned for Tuesday at noon at Bento Garden — a great chance to meet Priya and catch up with each other, so please do join us if you can!\n\nWelcome aboard, Priya — so glad to have you on the team!\n\nCheers,\n[Your Name]"
+  }
+}
